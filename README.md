@@ -19,7 +19,7 @@ git clone https://github.com/anubhavv106/Camphish
 
 ## 🧰 Technologies Used
 
-- SHEll
+- SHELL
 - PHP
 - HTML
 - CSS
