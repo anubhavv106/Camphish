@@ -13,7 +13,7 @@ CamPhish is a technique to take cam shots of a target’s phone front camera or 
 1. Clone this repository: 
 ```bash 
 
-git clone [https://github.com/anubhavv106/Project-management-tool](https://github.com/anubhavv106/Camphish)
+git clone https://github.com/anubhavv106/Camphish
    ```
 2. Then type `cd CamPhish` and `bash Camphish.sh` in your terminal.
 
