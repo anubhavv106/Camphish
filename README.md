@@ -23,7 +23,7 @@ git clone https://github.com/anubhavv106/Camphish
 - PHP
 - HTML
 - CSS
-- JavaScript
+- JavaScript.
 
 
 ## 📝 License
